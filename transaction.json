@@ -1,0 +1,6 @@
+{
+    "_comment": "file needed for live testing blockchain code",
+    "sender" : "",
+    "reciever": "",
+    "amount": 0
+}
